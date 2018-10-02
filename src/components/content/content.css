@@ -1,0 +1,14 @@
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover{
+    color: whitesmoke;
+}
+.navbar-default{
+    background-color: initial;
+    border:none;
+}
+.navbar-brand{
+    padding:20px 20px;
+    font-size:35px;
+}
+.icons, .phone-icon{
+    width:40px;
+}
